@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Amarachi**, I am a Solidity Smart Contract Developer
+My name is **Amarachi Ugwu**, I am a Solidity Smart Contract Developer
 
 ***
 
@@ -18,6 +18,6 @@ My name is **Amarachi**, I am a Solidity Smart Contract Developer
 - 👯 I’m looking to collaborate on all sort of interesting thing
 - 🤔 I’m looking for help with interesting things
 - 💬 Ask me about interesting things
-- 📫 How to reach me: [@amarachiugwu_](https://twitter.com/amarachiugwu_) Also Check [More on](https://twitter.com/amarachiugwu_](https://linktr.ee/amarachiugwu))
+- 📫 How to reach me: [@amarachiugwu_](https://twitter.com/amarachiugwu_) Also Check [More on](https://twitter.com/amarachiugwu_)
 - 😄 Pronouns: That Tech Sis
 - ⚡ Fun fact: I love beatiful things and places
