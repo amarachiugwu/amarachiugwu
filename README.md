@@ -40,7 +40,7 @@ My name is **Amarachi Ugwu**, I am a Solidity Smart Contract Developer
 - 🌱 I’m currently learning a lot of amazing things
 - 👯 I’m looking to collaborate on all sort of interesting thing
 - 🤔 I’m looking for help with interesting things
-- 💬 Ask me about interesting things
+- 💬 Ask me about anything software development
 - 📫 How to reach me: [@amarachiugwu_](https://twitter.com/amarachiugwu_) Also Check [More on](https://linktr.ee/amarachiugwu)
 - 😄 Pronouns: That Tech Sis
 - ⚡ Fun fact: I love beatiful things and places
