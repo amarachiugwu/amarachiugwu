@@ -5,13 +5,13 @@ My name is **Amarachi Ugwu**, I am a Solidity Smart Contract Developer
 ***
 
 ## 🔧 Languages and Tools
-![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=solidity.js&logoColor=ffffff&color=238636&labelColor=181717)
+![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=solidity&logoColor=ffffff&color=238636&labelColor=181717)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=000000&color=238636&labelColor=F7DF1E)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=238636&labelColor=61DAFB)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=238636&labelColor=764ABC)
 ![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=node.js&logoColor=339933&color=238636&labelColor=ffffff)
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=express&logoColor=339933&color=238636&labelColor=ffffff)
-![](https://img.shields.io/badge/PHP-informational?style=flat&logo=vue.js&logoColor=ffffff&color=238636&labelColor=181717)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=ffffff&color=238636&labelColor=181717)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=47A248&color=238636&labelColor=000)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=ffffff&color=238636&labelColor=4479A1)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=FF6C37&color=238636&labelColor=ffffff)
@@ -48,4 +48,4 @@ My name is **Amarachi Ugwu**, I am a Solidity Smart Contract Developer
 
 🥂 Cheers!
 
-![Profile Views](https://gpvc.arturio.dev/amarachiugwu) 
+<!-- ![Profile Views](https://gpvc.arturio.dev/amarachiugwu)  -->
