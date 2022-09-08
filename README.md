@@ -5,7 +5,7 @@ My name is **Amarachi Ugwu**, I am a Solidity Smart Contract Developer
 ***
 
 ## 🔧 Languages and Tools
-![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=solidity&logoColor=ffffff&color=238636&labelColor=181717)
+![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=solidity&logoColor=ffffff&color=2F74C0&labelColor=ffffff)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=000000&color=238636&labelColor=F7DF1E)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=000000&color=238636&labelColor=F7DF1E)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=238636&labelColor=61DAFB)
