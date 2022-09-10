@@ -41,6 +41,7 @@ My name is **Amarachi Ugwu**, I am a Solidity Smart Contract Developer
 ***
 
 - 🔭 I’m currently working on amazing things
+-- 
 - 🌱 I’m currently learning a lot of amazing things
 - 👯 I’m looking to collaborate on all sort of interesting thing
 - 🤔 I’m looking for help with interesting things
