@@ -49,6 +49,16 @@ My name is **Amarachi Ugwu**, I am a Solidity Smart Contract Developer
 - 😄 Pronouns: That Tech Sis
 - ⚡ Fun fact: I love beatiful things and places
 
+### This week I spend time on:
+
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   29 hrs 11 mins  ████████████████░░░░░░░░░   63.80 %
+Other        5 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+```
+
+<!--END_SECTION:waka-->
 
 🥂 Cheers!
 
