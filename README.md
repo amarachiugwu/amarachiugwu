@@ -46,7 +46,6 @@ My name is **Amarachi Ugwu**, I am a Solidity Smart Contract Developer
   - Writing Smart Contracts On the EVM
 - 🌱 I’m currently learning a lot of amazing things too
 - 👯 I’m looking to collaborate on all sort of creative ideas, so don't hesitate to reach out!
-<!-- - 🤔 I’m looking for help with interesting things -->
 - 💬 Ask me about anything software development, i will be glad to share my knowledge 😇
 - 📫 How to reach me: [@amarachiugwu_](https://twitter.com/amarachiugwu_) Also Check [More on](https://linktr.ee/amarachiugwu)
 - 😄 Pronouns: That Tech Sis
