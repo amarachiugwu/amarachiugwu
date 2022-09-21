@@ -8,7 +8,6 @@ My name is **Amarachi Ugwu**, I am a Solidity Smart Contract Developer
 ![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=solidity&logoColor=ffffff&color=238636&labelColor=181717)
 ![](https://img.shields.io/badge/Truffle-informational?style=flat&logo=truffle&logoColor=2F74C0&color=238636&labelColor=ffffff)
 ![](https://img.shields.io/badge/Hardhat-informational?style=flat&logo=hardhat&logoColor=ffffff&color=238636&labelColor=F05032)
-![](https://img.shields.io/badge/Foundry-informational?style=flat&logo=foundry&logoColor=000000&color=238636&labelColor=F7DF1E)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=000000&color=238636&labelColor=F7DF1E)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=2F74C0&color=238636&labelColor=ffffff)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=238636&labelColor=61DAFB)
@@ -29,6 +28,7 @@ My name is **Amarachi Ugwu**, I am a Solidity Smart Contract Developer
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=ffffff&color=238636&labelColor=181717)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=238636&labelColor=ffffff)
 
+<!-- ![](https://img.shields.io/badge/Foundry-informational?style=flat&logo=foundry&logoColor=000000&color=238636&labelColor=F7DF1E) -->
 <!-- ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=2391E6&color=238636&labelColor=FFFFFF)
 ![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=2391E6&color=238636&labelColor=FFFFFF) -->
 
