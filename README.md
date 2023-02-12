@@ -55,11 +55,11 @@ My name is **Amarachi Ugwu**, I am a Solidity Smart Contract Developer
 
 <!--START_SECTION:waka-->
 
-```text
+<!-- ```text
 TypeScript   35 hrs 11 mins  ███████░░░░░░░░░░░░░   63.80 %
 Solidity     21 hrs 11 mins  █████░░░░░░░░░░░░░░░   23.68 %
 Other        41 hrs 38 mins  ████████░░░░░░░░░░░░   12.52 %
-```
+``` -->
 
 <!--END_SECTION:waka-->
 
