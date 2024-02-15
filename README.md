@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Amarachi Ugwu**, I am a Solidity Smart Contract Developer
+My name is **Amarachi Ugwu**, I am a Blockchain Engineer
 
 ***
 
