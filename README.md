@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Amarachi Ugwu**, I am a Blockchain Engineer
+My name is **Amarachi Ugwu**, I am a Blockchain Engineer & Educator
 
 ***
 
