@@ -2,7 +2,7 @@
 Amarachi Ugwu is a skilled software engineer, technical educator and writer with expertise in open source, blockchain and software products. She has contributed to Pinata and React, authored various Technical educative contents around blockchain engineering for Ethereum, Assetchain and Starknet, with Thousands of views across various reputable publications, and she is an ambassador for Women Tech Makers.
 
 
-Amarachi is a sought-after Software engineer. She engages with the developer community through meetups, bootcamps, hackathons, lectures, spaces and training. She founded [Digitpay Finance](https://digitpay.finance/) (a Fin-Tech Platform that delivers ease of payment for individuals and businesses who interact with both cryptocurrencies and traditional local currencies), she is the Software Development Club lead at Web3ladies, a web3 coding community with over 15k+ active women.
+Amarachi is a sought-after Software engineer. She engages with the developer community through meetups, bootcamps, hackathons, lectures, spaces and training. She co-founded [Digitpay Finance](https://digitpay.finance/) (a Fin-Tech Platform that delivers ease of payment for individuals and businesses who interact with both cryptocurrencies and traditional local currencies), she is the Software Development Club lead at Web3ladies, a web3 coding community with over 15k+ active women.
 
 Amarachi has given several talks, workshops, and live coding demos, both virtually and onsite, inspiring and educating others as a speaker.
 
